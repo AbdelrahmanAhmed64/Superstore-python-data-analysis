@@ -80,10 +80,6 @@ The project includes 8 visualizations:
 
 ![Discount vs Profit](images/discount_vs_profit.png)
 
-### KPI Summary
-
-![KPI Summary](images/kpi_summary.png)
-
 
 ## KPI Analysis
 
