@@ -83,15 +83,7 @@ The project includes 8 visualizations:
 
 ## KPI Analysis
 
-An automated KPI summary is generated containing:
-
-* Total Sales
-* Total Profit
-* Average Profit Margin
-* Top Sales Category
-
-==================================================
-          KPI ANALYTICAL REPORT          
+An automated KPI summary is generated containing:        
 
 * Total Sales            : $1,401,969.37
 * Total Profit           : $286,397.02
