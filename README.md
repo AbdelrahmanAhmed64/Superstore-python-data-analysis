@@ -92,11 +92,11 @@ An automated KPI summary is generated containing:
 
 ==================================================
           KPI ANALYTICAL REPORT          
-==================================================
-• Total Sales            : $1,401,969.37
-• Total Profit           : $286,397.02
-• Avg Profit Margin      : 12.03%
-• Top Sales Category     : Office Supplies
+
+* Total Sales            : $1,401,969.37
+* Total Profit           : $286,397.02
+* Avg Profit Margin      : 12.03%
+* Top Sales Category     : Office Supplies
 
 
 ## Output
