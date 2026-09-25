@@ -68,6 +68,23 @@ The project includes 8 visualizations:
 7. Top 10 Sub-Categories by Sales
 8. Ship Mode Distribution
 
+### Sales and Profit by Category
+
+![Sales and Profit by Category](images/sales_profit_by_category.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](images/monthly_sales_trend.png)
+
+### Discount vs Profit
+
+![Discount vs Profit](images/discount_vs_profit.png)
+
+### KPI Summary
+
+![KPI Summary](images/kpi_summary.png)
+
+
 ## KPI Analysis
 
 An automated KPI summary is generated containing:
